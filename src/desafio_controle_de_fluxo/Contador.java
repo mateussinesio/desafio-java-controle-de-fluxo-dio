@@ -1,4 +1,4 @@
-package br.com.mateus_sinesio.desafio_controle_de_fluxo;
+package desafio_controle_de_fluxo;
 
 import java.util.Scanner;
 
